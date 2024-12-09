@@ -1,0 +1,16 @@
+{
+  "name": "pokemonGoSimulator-Gamecompass",
+  "author": {
+    "name": "Oscar Tlatempa Nava",
+    "email": "oscar.tlnv@gmail.com"
+  },
+  "description": "Pokemon Go Simulator",
+  "version": "0.0.1",
+  "devDependencies": {
+    "@jest/globals": "^29.7.0",
+    "@types/jest": "^29.5.14",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.5",
+    "typescript": "^5.7.2"
+  }
+}
