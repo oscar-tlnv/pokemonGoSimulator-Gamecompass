@@ -25,6 +25,7 @@
   },
   "scripts": {
     "test": "jest",
+    "watch": "jest --watchAll --verbose --collectCoverage --detectOpenHandles",
     "lint": "eslint src/**/*.{ts,js}",
     "lint:fix": "eslint '**/*.{ts,js}' --fix",
     "format": "prettier --write '**/*.{ts,js,json,md}'",
