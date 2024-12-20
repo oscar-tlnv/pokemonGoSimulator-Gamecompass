@@ -1,0 +1,4328 @@
+[
+  {
+    "name": "ACID",
+    "energyDelta": 5,
+    "power": 6,
+    "type": "POISON",
+    "turns": 2,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "ACID_SPRAY",
+    "energyDelta": -45,
+    "power": 20,
+    "type": "POISON",
+    "turns": 1,
+    "effectChance": 1,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": -2
+    }
+  },
+  {
+    "name": "ACROBATICS",
+    "energyDelta": -60,
+    "power": 110,
+    "type": "FLYING",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "AERIAL_ACE",
+    "energyDelta": -40,
+    "power": 55,
+    "type": "FLYING",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "AEROBLAST",
+    "energyDelta": -75,
+    "power": 170,
+    "type": "FLYING",
+    "turns": 1,
+    "effectChance": 0.125,
+    "effect": {
+      "selfAttack": 2,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "AIR_CUTTER",
+    "energyDelta": -55,
+    "power": 60,
+    "type": "FLYING",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "AIR_SLASH",
+    "energyDelta": 9,
+    "power": 9,
+    "type": "FLYING",
+    "turns": 3,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "ANCIENT_POWER",
+    "energyDelta": -45,
+    "power": 60,
+    "type": "ROCK",
+    "turns": 1,
+    "effectChance": 0.1,
+    "effect": {
+      "selfAttack": 1,
+      "selfDefense": 1,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "AQUA_JET",
+    "energyDelta": -45,
+    "power": 45,
+    "type": "WATER",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "AQUA_TAIL",
+    "energyDelta": -35,
+    "power": 55,
+    "type": "WATER",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "ASTONISH",
+    "energyDelta": 10,
+    "power": 12,
+    "type": "GHOST",
+    "turns": 3,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "AURA_SPHERE",
+    "energyDelta": -55,
+    "power": 100,
+    "type": "FIGHTING",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "AURA_WHEEL_ELECTRIC",
+    "energyDelta": -45,
+    "power": 100,
+    "type": "ELECTRIC",
+    "turns": 1,
+    "effectChance": 1,
+    "effect": {
+      "selfAttack": 1,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "AURA_WHEEL_DARK",
+    "energyDelta": -45,
+    "power": 100,
+    "type": "DARK",
+    "turns": 1,
+    "effectChance": 1,
+    "effect": {
+      "selfAttack": 1,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "AURORA_BEAM",
+    "energyDelta": -60,
+    "power": 80,
+    "type": "ICE",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "AVALANCHE",
+    "energyDelta": -45,
+    "power": 90,
+    "type": "ICE",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "BITE",
+    "energyDelta": 2,
+    "power": 4,
+    "type": "DARK",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "BLAST_BURN",
+    "energyDelta": -50,
+    "power": 110,
+    "type": "FIRE",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "BLEAKWIND_STORM",
+    "energyDelta": -45,
+    "power": 60,
+    "type": "FLYING",
+    "turns": 1,
+    "effectChance": 1,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": -1,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "BLIZZARD",
+    "energyDelta": -75,
+    "power": 140,
+    "type": "ICE",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "BODY_SLAM",
+    "energyDelta": -35,
+    "power": 50,
+    "type": "NORMAL",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "BOOMBURST",
+    "energyDelta": -70,
+    "power": 150,
+    "type": "NORMAL",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "BONE_CLUB",
+    "energyDelta": -35,
+    "power": 55,
+    "type": "GROUND",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "BRAVE_BIRD",
+    "energyDelta": -55,
+    "power": 130,
+    "type": "FLYING",
+    "turns": 1,
+    "effectChance": 1,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": -3,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "BREAKING_SWIPE",
+    "energyDelta": -35,
+    "power": 50,
+    "type": "DRAGON",
+    "turns": 1,
+    "effectChance": 0.5,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": -1,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "BRICK_BREAK",
+    "energyDelta": -40,
+    "power": 40,
+    "type": "FIGHTING",
+    "turns": 1,
+    "effectChance": 1,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": -1
+    }
+  },
+  {
+    "name": "BRUTAL_SWING",
+    "energyDelta": -35,
+    "power": 55,
+    "type": "DARK",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "BRINE",
+    "energyDelta": -50,
+    "power": 60,
+    "type": "WATER",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "BUBBLE",
+    "energyDelta": 11,
+    "power": 8,
+    "type": "WATER",
+    "turns": 3,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "BUBBLE_BEAM",
+    "energyDelta": -40,
+    "power": 25,
+    "type": "WATER",
+    "turns": 1,
+    "effectChance": 1,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": -1,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "BUG_BITE",
+    "energyDelta": 3,
+    "power": 3,
+    "type": "BUG",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "BUG_BUZZ",
+    "energyDelta": -60,
+    "power": 100,
+    "type": "BUG",
+    "turns": 1,
+    "effectChance": 0.3,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": -1
+    }
+  },
+  {
+    "name": "BULLDOZE",
+    "energyDelta": -45,
+    "power": 45,
+    "type": "GROUND",
+    "turns": 1,
+    "effectChance": 0.5,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": -1
+    }
+  },
+  {
+    "name": "BULLET_PUNCH",
+    "energyDelta": 7,
+    "power": 6,
+    "type": "STEEL",
+    "turns": 2,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "BULLET_SEED",
+    "energyDelta": 13,
+    "power": 5,
+    "type": "GRASS",
+    "turns": 3,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "CHARGE_BEAM",
+    "energyDelta": 11,
+    "power": 5,
+    "type": "ELECTRIC",
+    "turns": 3,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "CHARM",
+    "energyDelta": 6,
+    "power": 15,
+    "type": "FAIRY",
+    "turns": 3,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "CLOSE_COMBAT",
+    "energyDelta": -45,
+    "power": 100,
+    "type": "FIGHTING",
+    "turns": 1,
+    "effectChance": 1,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": -2,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "CONFUSION",
+    "energyDelta": 12,
+    "power": 16,
+    "type": "PSYCHIC",
+    "turns": 4,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "COUNTER",
+    "energyDelta": 6,
+    "power": 8,
+    "type": "FIGHTING",
+    "turns": 2,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "CRABHAMMER",
+    "energyDelta": -50,
+    "power": 85,
+    "type": "WATER",
+    "turns": 1,
+    "effectChance": 0.125,
+    "effect": {
+      "selfAttack": 2,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "CROSS_CHOP",
+    "energyDelta": -35,
+    "power": 55,
+    "type": "FIGHTING",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "CROSS_POISON",
+    "energyDelta": -35,
+    "power": 50,
+    "type": "POISON",
+    "turns": 1,
+    "effectChance": 0.125,
+    "effect": {
+      "selfAttack": 2,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "CRUNCH",
+    "energyDelta": -45,
+    "power": 70,
+    "type": "DARK",
+    "turns": 1,
+    "effectChance": 0.3,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": -1
+    }
+  },
+  {
+    "name": "CUT",
+    "energyDelta": 2,
+    "power": 3,
+    "type": "NORMAL",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "DARKEST_LARIAT",
+    "energyDelta": -60,
+    "power": 120,
+    "type": "DARK",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "DARK_PULSE",
+    "energyDelta": -50,
+    "power": 80,
+    "type": "DARK",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "DAZZLING_GLEAM",
+    "energyDelta": -70,
+    "power": 110,
+    "type": "FAIRY",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "DIG",
+    "energyDelta": -50,
+    "power": 70,
+    "type": "GROUND",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "DISARMING_VOICE",
+    "energyDelta": -45,
+    "power": 70,
+    "type": "FAIRY",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "DISCHARGE",
+    "energyDelta": -45,
+    "power": 65,
+    "type": "ELECTRIC",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "DOOM_DESIRE",
+    "energyDelta": -40,
+    "power": 75,
+    "type": "STEEL",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "DOUBLE_IRON_BASH",
+    "energyDelta": -35,
+    "power": 50,
+    "type": "STEEL",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "DOUBLE_KICK",
+    "energyDelta": 12,
+    "power": 8,
+    "type": "FIGHTING",
+    "turns": 3,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "DRACO_METEOR",
+    "energyDelta": -65,
+    "power": 150,
+    "type": "DRAGON",
+    "turns": 1,
+    "effectChance": 1,
+    "effect": {
+      "selfAttack": -2,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "DRAGON_ASCENT",
+    "energyDelta": -70,
+    "power": 150,
+    "type": "FLYING",
+    "turns": 1,
+    "effectChance": 1,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": -1,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "DRAGON_BREATH",
+    "energyDelta": 3,
+    "power": 4,
+    "type": "DRAGON",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "DRAGON_CLAW",
+    "energyDelta": -35,
+    "power": 50,
+    "type": "DRAGON",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "DRAGON_PULSE",
+    "energyDelta": -60,
+    "power": 90,
+    "type": "DRAGON",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "DRAGON_TAIL",
+    "energyDelta": 9,
+    "power": 13,
+    "type": "DRAGON",
+    "turns": 3,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "DRAIN_PUNCH",
+    "energyDelta": -40,
+    "power": 20,
+    "type": "FIGHTING",
+    "turns": 1,
+    "effectChance": 1,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 1,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "DRAINING_KISS",
+    "energyDelta": -55,
+    "power": 60,
+    "type": "FAIRY",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "DRILL_PECK",
+    "energyDelta": -40,
+    "power": 65,
+    "type": "FLYING",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "DRILL_RUN",
+    "energyDelta": -45,
+    "power": 80,
+    "type": "GROUND",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "DYNAMIC_PUNCH",
+    "energyDelta": -50,
+    "power": 90,
+    "type": "FIGHTING",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "EARTHQUAKE",
+    "energyDelta": -65,
+    "power": 110,
+    "type": "GROUND",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "EARTH_POWER",
+    "energyDelta": -55,
+    "power": 90,
+    "type": "GROUND",
+    "turns": 1,
+    "effectChance": 0.1,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": -1
+    }
+  },
+  {
+    "name": "EMBER",
+    "energyDelta": 6,
+    "power": 7,
+    "type": "FIRE",
+    "turns": 2,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "ENERGY_BALL",
+    "energyDelta": -55,
+    "power": 90,
+    "type": "GRASS",
+    "turns": 1,
+    "effectChance": 0.1,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": -1
+    }
+  },
+  {
+    "name": "EXTRASENSORY",
+    "energyDelta": 10,
+    "power": 8,
+    "type": "PSYCHIC",
+    "turns": 3,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "FEINT_ATTACK",
+    "energyDelta": 6,
+    "power": 6,
+    "type": "DARK",
+    "turns": 2,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "FELL_STINGER",
+    "energyDelta": -35,
+    "power": 20,
+    "type": "BUG",
+    "turns": 1,
+    "effectChance": 1,
+    "effect": {
+      "selfAttack": 1,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "FIRE_BLAST",
+    "energyDelta": -80,
+    "power": 140,
+    "type": "FIRE",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "FIRE_FANG",
+    "energyDelta": 6,
+    "power": 8,
+    "type": "FIRE",
+    "turns": 2,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "FIRE_PUNCH",
+    "energyDelta": -40,
+    "power": 60,
+    "type": "FIRE",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "BLAZE_KICK",
+    "energyDelta": -40,
+    "power": 60,
+    "type": "FIRE",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "FAIRY_WIND",
+    "energyDelta": 9,
+    "power": 4,
+    "type": "FAIRY",
+    "turns": 2,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "FEATHER_DANCE",
+    "energyDelta": -50,
+    "power": 35,
+    "type": "FLYING",
+    "turns": 1,
+    "effectChance": 1,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": -2,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "FIRE_SPIN",
+    "energyDelta": 10,
+    "power": 11,
+    "type": "FIRE",
+    "turns": 3,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "FLAME_BURST",
+    "energyDelta": -55,
+    "power": 70,
+    "type": "FIRE",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "FLAME_CHARGE",
+    "energyDelta": -50,
+    "power": 65,
+    "type": "FIRE",
+    "turns": 1,
+    "effectChance": 1,
+    "effect": {
+      "selfAttack": 1,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "FLAME_WHEEL",
+    "energyDelta": -55,
+    "power": 60,
+    "type": "FIRE",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "FLAMETHROWER",
+    "energyDelta": -55,
+    "power": 90,
+    "type": "FIRE",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "FLASH_CANNON",
+    "energyDelta": -70,
+    "power": 110,
+    "type": "STEEL",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "FLY",
+    "energyDelta": -45,
+    "power": 80,
+    "type": "FLYING",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "FLYING_PRESS",
+    "energyDelta": -40,
+    "power": 90,
+    "type": "FIGHTING",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "FOCUS_BLAST",
+    "energyDelta": -75,
+    "power": 150,
+    "type": "FIGHTING",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "FORCE_PALM",
+    "energyDelta": 10,
+    "power": 13,
+    "type": "FIGHTING",
+    "turns": 3,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "FOUL_PLAY",
+    "energyDelta": -45,
+    "power": 70,
+    "type": "DARK",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "FRENZY_PLANT",
+    "energyDelta": -45,
+    "power": 100,
+    "type": "GRASS",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "FROST_BREATH",
+    "energyDelta": 5,
+    "power": 7,
+    "type": "ICE",
+    "turns": 2,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "FRUSTRATION",
+    "energyDelta": -70,
+    "power": 10,
+    "type": "NORMAL",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "FURY_CUTTER",
+    "energyDelta": 4,
+    "power": 2,
+    "type": "BUG",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "FUSION_BOLT",
+    "energyDelta": -45,
+    "power": 90,
+    "type": "ELECTRIC",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "FUSION_FLARE",
+    "energyDelta": -45,
+    "power": 90,
+    "type": "FIRE",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "FUTURE_SIGHT",
+    "energyDelta": -65,
+    "power": 110,
+    "type": "PSYCHIC",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "GEOMANCY",
+    "energyDelta": 13,
+    "power": 4,
+    "type": "FAIRY",
+    "turns": 3,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "GIGA_DRAIN",
+    "energyDelta": -80,
+    "power": 50,
+    "type": "GRASS",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "GIGA_IMPACT",
+    "energyDelta": -80,
+    "power": 150,
+    "type": "NORMAL",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "GLACIATE",
+    "energyDelta": -40,
+    "power": 60,
+    "type": "ICE",
+    "turns": 1,
+    "effectChance": 1,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": -1,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "GRASS_KNOT",
+    "energyDelta": -50,
+    "power": 90,
+    "type": "GRASS",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "GUNK_SHOT",
+    "energyDelta": -75,
+    "power": 130,
+    "type": "POISON",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "GUST",
+    "energyDelta": 12,
+    "power": 16,
+    "type": "FLYING",
+    "turns": 4,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "GYRO_BALL",
+    "energyDelta": -60,
+    "power": 80,
+    "type": "STEEL",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "HEART_STAMP",
+    "energyDelta": -40,
+    "power": 40,
+    "type": "PSYCHIC",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "HEAT_WAVE",
+    "energyDelta": -75,
+    "power": 95,
+    "type": "FIRE",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "HEAVY_SLAM",
+    "energyDelta": -50,
+    "power": 70,
+    "type": "STEEL",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "HEX",
+    "energyDelta": 12,
+    "power": 6,
+    "type": "GHOST",
+    "turns": 3,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "HIDDEN_POWER_BUG",
+    "energyDelta": 8,
+    "power": 9,
+    "type": "BUG",
+    "turns": 3,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "HIDDEN_POWER_DARK",
+    "energyDelta": 8,
+    "power": 9,
+    "type": "DARK",
+    "turns": 3,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "HIDDEN_POWER_DRAGON",
+    "energyDelta": 8,
+    "power": 9,
+    "type": "DRAGON",
+    "turns": 3,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "HIDDEN_POWER_ELECTRIC",
+    "energyDelta": 8,
+    "power": 9,
+    "type": "ELECTRIC",
+    "turns": 3,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "HIDDEN_POWER_FIGHTING",
+    "energyDelta": 8,
+    "power": 9,
+    "type": "FIGHTING",
+    "turns": 3,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "HIDDEN_POWER_FIRE",
+    "energyDelta": 8,
+    "power": 9,
+    "type": "FIRE",
+    "turns": 3,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "HIDDEN_POWER_FLYING",
+    "energyDelta": 8,
+    "power": 9,
+    "type": "FLYING",
+    "turns": 3,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "HIDDEN_POWER_GHOST",
+    "energyDelta": 8,
+    "power": 9,
+    "type": "GHOST",
+    "turns": 3,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "HIDDEN_POWER_GRASS",
+    "energyDelta": 8,
+    "power": 9,
+    "type": "GRASS",
+    "turns": 3,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "HIDDEN_POWER_GROUND",
+    "energyDelta": 8,
+    "power": 9,
+    "type": "GROUND",
+    "turns": 3,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "HIDDEN_POWER_ICE",
+    "energyDelta": 8,
+    "power": 9,
+    "type": "ICE",
+    "turns": 3,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "HIDDEN_POWER_POISON",
+    "energyDelta": 8,
+    "power": 9,
+    "type": "POISON",
+    "turns": 3,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "HIDDEN_POWER_PSYCHIC",
+    "energyDelta": 8,
+    "power": 9,
+    "type": "PSYCHIC",
+    "turns": 3,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "HIDDEN_POWER_ROCK",
+    "energyDelta": 8,
+    "power": 9,
+    "type": "ROCK",
+    "turns": 3,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "HIDDEN_POWER_STEEL",
+    "energyDelta": 8,
+    "power": 9,
+    "type": "STEEL",
+    "turns": 3,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "HIDDEN_POWER_WATER",
+    "energyDelta": 8,
+    "power": 9,
+    "type": "WATER",
+    "turns": 3,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "HIGH_HORSEPOWER",
+    "energyDelta": -60,
+    "power": 100,
+    "type": "GROUND",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "HIGH_JUMP_KICK",
+    "energyDelta": -55,
+    "power": 110,
+    "type": "FIGHTING",
+    "turns": 1,
+    "effectChance": 0.1,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": -4,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "HORN_ATTACK",
+    "energyDelta": -35,
+    "power": 40,
+    "type": "NORMAL",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "HURRICANE",
+    "energyDelta": -65,
+    "power": 110,
+    "type": "FLYING",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "HYDRO_CANNON",
+    "energyDelta": -40,
+    "power": 80,
+    "type": "WATER",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "HYDRO_PUMP",
+    "energyDelta": -75,
+    "power": 130,
+    "type": "WATER",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "HYDRO_PUMP_BLASTOISE",
+    "energyDelta": -80,
+    "power": 90,
+    "type": "WATER",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "HYPER_BEAM",
+    "energyDelta": -80,
+    "power": 150,
+    "type": "NORMAL",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "HYPER_FANG",
+    "energyDelta": -50,
+    "power": 80,
+    "type": "NORMAL",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "ICE_BEAM",
+    "energyDelta": -55,
+    "power": 90,
+    "type": "ICE",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "ICE_FANG",
+    "energyDelta": 6,
+    "power": 8,
+    "type": "ICE",
+    "turns": 2,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "ICE_PUNCH",
+    "energyDelta": -40,
+    "power": 60,
+    "type": "ICE",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "ICE_SHARD",
+    "energyDelta": 10,
+    "power": 9,
+    "type": "ICE",
+    "turns": 3,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "ICICLE_SPEAR",
+    "energyDelta": -40,
+    "power": 65,
+    "type": "ICE",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "ICY_WIND",
+    "energyDelta": -45,
+    "power": 60,
+    "type": "ICE",
+    "turns": 1,
+    "effectChance": 1,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": -1,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "INCINERATE",
+    "energyDelta": 20,
+    "power": 20,
+    "type": "FIRE",
+    "turns": 5,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "INFESTATION",
+    "energyDelta": 12,
+    "power": 6,
+    "type": "BUG",
+    "turns": 3,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "IRON_HEAD",
+    "energyDelta": -50,
+    "power": 70,
+    "type": "STEEL",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "IRON_TAIL",
+    "energyDelta": 7,
+    "power": 10,
+    "type": "STEEL",
+    "turns": 3,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "KARATE_CHOP",
+    "energyDelta": 9,
+    "power": 5,
+    "type": "FIGHTING",
+    "turns": 2,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "LAST_RESORT",
+    "energyDelta": -55,
+    "power": 90,
+    "type": "NORMAL",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "LEAF_BLADE",
+    "energyDelta": -35,
+    "power": 70,
+    "type": "GRASS",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "LEAF_TORNADO",
+    "energyDelta": -40,
+    "power": 45,
+    "type": "GRASS",
+    "turns": 1,
+    "effectChance": 0.5,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": -2,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "LEAF_STORM",
+    "energyDelta": -55,
+    "power": 130,
+    "type": "GRASS",
+    "turns": 1,
+    "effectChance": 1,
+    "effect": {
+      "selfAttack": -2,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "LEAFAGE",
+    "energyDelta": 7,
+    "power": 6,
+    "type": "GRASS",
+    "turns": 2,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "LICK",
+    "energyDelta": 3,
+    "power": 3,
+    "type": "GHOST",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "LIQUIDATION",
+    "energyDelta": -45,
+    "power": 70,
+    "type": "WATER",
+    "turns": 1,
+    "effectChance": 0.3,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": -1
+    }
+  },
+  {
+    "name": "LOCK_ON",
+    "energyDelta": 5,
+    "power": 1,
+    "type": "NORMAL",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "LOW_KICK",
+    "energyDelta": 5,
+    "power": 4,
+    "type": "FIGHTING",
+    "turns": 2,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "LOW_SWEEP",
+    "energyDelta": -40,
+    "power": 40,
+    "type": "FIGHTING",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "LUNGE",
+    "energyDelta": -45,
+    "power": 60,
+    "type": "BUG",
+    "turns": 1,
+    "effectChance": 1,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": -1,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "LUSTER_PURGE",
+    "energyDelta": -60,
+    "power": 120,
+    "type": "PSYCHIC",
+    "turns": 1,
+    "effectChance": 0.5,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": -1
+    }
+  },
+  {
+    "name": "MAGICAL_LEAF",
+    "energyDelta": 10,
+    "power": 10,
+    "type": "GRASS",
+    "turns": 3,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "MAGMA_STORM",
+    "energyDelta": -40,
+    "power": 65,
+    "type": "FIRE",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "MAGNET_BOMB",
+    "energyDelta": -45,
+    "power": 70,
+    "type": "STEEL",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "MEGA_DRAIN",
+    "energyDelta": -55,
+    "power": 25,
+    "type": "GRASS",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "MEGAHORN",
+    "energyDelta": -55,
+    "power": 110,
+    "type": "BUG",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "METAL_CLAW",
+    "energyDelta": 7,
+    "power": 5,
+    "type": "STEEL",
+    "turns": 2,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "METAL_SOUND",
+    "energyDelta": 8,
+    "power": 3,
+    "type": "STEEL",
+    "turns": 2,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "METEOR_BEAM",
+    "energyDelta": -60,
+    "power": 120,
+    "type": "ROCK",
+    "turns": 1,
+    "effectChance": 1,
+    "effect": {
+      "selfAttack": 1,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "METEOR_MASH",
+    "energyDelta": -50,
+    "power": 100,
+    "type": "STEEL",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "MIRROR_COAT",
+    "energyDelta": -55,
+    "power": 60,
+    "type": "PSYCHIC",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "MIRROR_SHOT",
+    "energyDelta": -35,
+    "power": 35,
+    "type": "STEEL",
+    "turns": 1,
+    "effectChance": 0.3,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": -1,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "MIST_BALL",
+    "energyDelta": -60,
+    "power": 120,
+    "type": "PSYCHIC",
+    "turns": 1,
+    "effectChance": 0.5,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": -1,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "MOONBLAST",
+    "energyDelta": -60,
+    "power": 110,
+    "type": "FAIRY",
+    "turns": 1,
+    "effectChance": 0.1,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": -1,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "MOONGEIST_BEAM",
+    "energyDelta": -65,
+    "power": 135,
+    "type": "GHOST",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "MUD_BOMB",
+    "energyDelta": -40,
+    "power": 60,
+    "type": "GROUND",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "MUDDY_WATER",
+    "energyDelta": -35,
+    "power": 35,
+    "type": "WATER",
+    "turns": 2,
+    "effectChance": 0.3,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": -1,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "MUD_SHOT",
+    "energyDelta": 8,
+    "power": 4,
+    "type": "GROUND",
+    "turns": 2,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "MUD_SLAP",
+    "energyDelta": 10,
+    "power": 12,
+    "type": "GROUND",
+    "turns": 3,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "MYSTICAL_FIRE",
+    "energyDelta": -45,
+    "power": 60,
+    "type": "FIRE",
+    "turns": 1,
+    "effectChance": 1,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": -1,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "NATURES_MADNESS",
+    "energyDelta": -50,
+    "power": 80,
+    "type": "FAIRY",
+    "turns": 1,
+    "effectChance": 1,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": -1
+    }
+  },
+  {
+    "name": "NIGHT_SHADE",
+    "energyDelta": -45,
+    "power": 80,
+    "type": "GHOST",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "NIGHT_SLASH",
+    "energyDelta": -35,
+    "power": 50,
+    "type": "DARK",
+    "turns": 1,
+    "effectChance": 0.125,
+    "effect": {
+      "selfAttack": 2,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "OBLIVION_WING",
+    "energyDelta": -50,
+    "power": 85,
+    "type": "FLYING",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "OBSTRUCT",
+    "energyDelta": -40,
+    "power": 15,
+    "type": "DARK",
+    "turns": 1,
+    "effectChance": 1,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "OCTAZOOKA",
+    "energyDelta": -50,
+    "power": 50,
+    "type": "WATER",
+    "turns": 1,
+    "effectChance": 0.5,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": -2,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "OMINOUS_WIND",
+    "energyDelta": -45,
+    "power": 45,
+    "type": "GHOST",
+    "turns": 1,
+    "effectChance": 0.1,
+    "effect": {
+      "selfAttack": 1,
+      "selfDefense": 1,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "ORIGIN_PULSE",
+    "energyDelta": -60,
+    "power": 130,
+    "type": "WATER",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "OUTRAGE",
+    "energyDelta": -60,
+    "power": 110,
+    "type": "DRAGON",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "OVERHEAT",
+    "energyDelta": -55,
+    "power": 130,
+    "type": "FIRE",
+    "turns": 1,
+    "effectChance": 1,
+    "effect": {
+      "selfAttack": -2,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "PARABOLIC_CHARGE",
+    "energyDelta": -50,
+    "power": 70,
+    "type": "ELECTRIC",
+    "turns": 1,
+    "effectChance": 0.66,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 1,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "PAYBACK",
+    "energyDelta": -60,
+    "power": 110,
+    "type": "DARK",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "PECK",
+    "energyDelta": 5,
+    "power": 6,
+    "type": "FLYING",
+    "turns": 2,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "PETAL_BLIZZARD",
+    "energyDelta": -65,
+    "power": 110,
+    "type": "GRASS",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "PLAY_ROUGH",
+    "energyDelta": -60,
+    "power": 90,
+    "type": "FAIRY",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "POISON_FANG",
+    "energyDelta": -40,
+    "power": 45,
+    "type": "POISON",
+    "turns": 1,
+    "effectChance": 1,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": -1
+    }
+  },
+  {
+    "name": "POISON_JAB",
+    "energyDelta": 7,
+    "power": 7,
+    "type": "POISON",
+    "turns": 2,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "POISON_STING",
+    "energyDelta": 9,
+    "power": 4,
+    "type": "POISON",
+    "turns": 2,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "POLTERGEIST",
+    "energyDelta": -75,
+    "power": 150,
+    "type": "GHOST",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "POUND",
+    "energyDelta": 4,
+    "power": 4,
+    "type": "NORMAL",
+    "turns": 2,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "POWDER_SNOW",
+    "energyDelta": 8,
+    "power": 5,
+    "type": "ICE",
+    "turns": 2,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "POWER_GEM",
+    "energyDelta": -50,
+    "power": 85,
+    "type": "ROCK",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "POWER_UP_PUNCH",
+    "energyDelta": -35,
+    "power": 20,
+    "type": "FIGHTING",
+    "turns": 1,
+    "effectChance": 1,
+    "effect": {
+      "selfAttack": 1,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "POWER_WHIP",
+    "energyDelta": -50,
+    "power": 90,
+    "type": "GRASS",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "PRECIPICE_BLADES",
+    "energyDelta": -60,
+    "power": 130,
+    "type": "GROUND",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "PRESENT",
+    "energyDelta": 12,
+    "power": 3,
+    "type": "NORMAL",
+    "turns": 3,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "PSYBEAM",
+    "energyDelta": -60,
+    "power": 70,
+    "type": "PSYCHIC",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "PSYCHIC",
+    "energyDelta": -55,
+    "power": 75,
+    "type": "PSYCHIC",
+    "turns": 1,
+    "effectChance": 0.1,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": -1
+    }
+  },
+  {
+    "name": "PSYCHIC_FANGS",
+    "energyDelta": -35,
+    "power": 40,
+    "type": "PSYCHIC",
+    "turns": 1,
+    "effectChance": 1,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": -1
+    }
+  },
+  {
+    "name": "PSYCHO_BOOST",
+    "energyDelta": -35,
+    "power": 70,
+    "type": "PSYCHIC",
+    "turns": 1,
+    "effectChance": 1,
+    "effect": {
+      "selfAttack": -2,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "PSYCHO_CUT",
+    "energyDelta": 9,
+    "power": 3,
+    "type": "PSYCHIC",
+    "turns": 2,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "PSYSHOCK",
+    "energyDelta": -45,
+    "power": 70,
+    "type": "PSYCHIC",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "PSYSTRIKE",
+    "energyDelta": -45,
+    "power": 90,
+    "type": "PSYCHIC",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "PSYWAVE",
+    "energyDelta": 4,
+    "power": 3,
+    "type": "PSYCHIC",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "QUICK_ATTACK",
+    "energyDelta": 8,
+    "power": 5,
+    "type": "NORMAL",
+    "turns": 2,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "RAGE_FIST",
+    "energyDelta": -35,
+    "power": 50,
+    "type": "GHOST",
+    "turns": 1,
+    "effectChance": 1,
+    "effect": {
+      "selfAttack": 1,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "RAZOR_LEAF",
+    "energyDelta": 4,
+    "power": 9,
+    "type": "GRASS",
+    "turns": 2,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "RAZOR_SHELL",
+    "energyDelta": -35,
+    "power": 35,
+    "type": "WATER",
+    "turns": 1,
+    "effectChance": 0.5,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": -1
+    }
+  },
+  {
+    "name": "REST",
+    "energyDelta": -35,
+    "power": 50,
+    "type": "NORMAL",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "RETURN",
+    "energyDelta": -70,
+    "power": 130,
+    "type": "NORMAL",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "ROAR_OF_TIME",
+    "energyDelta": -65,
+    "power": 150,
+    "type": "DRAGON",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "ROCK_BLAST",
+    "energyDelta": -40,
+    "power": 50,
+    "type": "ROCK",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "ROCK_SLIDE",
+    "energyDelta": -45,
+    "power": 65,
+    "type": "ROCK",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "ROCK_SMASH",
+    "energyDelta": 7,
+    "power": 9,
+    "type": "FIGHTING",
+    "turns": 3,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "ROCK_THROW",
+    "energyDelta": 5,
+    "power": 8,
+    "type": "ROCK",
+    "turns": 2,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "ROCK_TOMB",
+    "energyDelta": -60,
+    "power": 70,
+    "type": "ROCK",
+    "turns": 1,
+    "effectChance": 1,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": -1,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "ROCK_WRECKER",
+    "energyDelta": -50,
+    "power": 110,
+    "type": "ROCK",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "ROLLOUT",
+    "energyDelta": 13,
+    "power": 8,
+    "type": "ROCK",
+    "turns": 3,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "SACRED_FIRE",
+    "energyDelta": -65,
+    "power": 130,
+    "type": "FIRE",
+    "turns": 1,
+    "effectChance": 0.5,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": -1,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "SACRED_SWORD",
+    "energyDelta": -35,
+    "power": 60,
+    "type": "FIGHTING",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "SAND_ATTACK",
+    "energyDelta": 4,
+    "power": 2,
+    "type": "GROUND",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "SAND_TOMB",
+    "energyDelta": -40,
+    "power": 25,
+    "type": "GROUND",
+    "turns": 1,
+    "effectChance": 1,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": -1
+    }
+  },
+  {
+    "name": "SANDSEAR_STORM",
+    "energyDelta": -45,
+    "power": 60,
+    "type": "GROUND",
+    "turns": 1,
+    "effectChance": 1,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": -1,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "SCALD",
+    "energyDelta": -50,
+    "power": 85,
+    "type": "WATER",
+    "turns": 1,
+    "effectChance": 0.3,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": -1,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "SCORCHING_SANDS",
+    "energyDelta": -50,
+    "power": 80,
+    "type": "GROUND",
+    "turns": 1,
+    "effectChance": 0.3,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": -1,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "SCRATCH",
+    "energyDelta": 2,
+    "power": 4,
+    "type": "NORMAL",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "SEED_BOMB",
+    "energyDelta": -45,
+    "power": 65,
+    "type": "GRASS",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "SEED_FLARE",
+    "energyDelta": -75,
+    "power": 130,
+    "type": "GRASS",
+    "turns": 1,
+    "effectChance": 0.4,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": -2
+    }
+  },
+  {
+    "name": "SHADOW_BALL",
+    "energyDelta": -55,
+    "power": 100,
+    "type": "GHOST",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "SHADOW_BONE",
+    "energyDelta": -45,
+    "power": 80,
+    "type": "GHOST",
+    "turns": 1,
+    "effectChance": 0.2,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": -1
+    }
+  },
+  {
+    "name": "SHADOW_CLAW",
+    "energyDelta": 8,
+    "power": 6,
+    "type": "GHOST",
+    "turns": 2,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "SHADOW_FORCE",
+    "energyDelta": -90,
+    "power": 120,
+    "type": "GHOST",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "SHADOW_PUNCH",
+    "energyDelta": -35,
+    "power": 55,
+    "type": "GHOST",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "SHADOW_SNEAK",
+    "energyDelta": -45,
+    "power": 50,
+    "type": "GHOST",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "SIGNAL_BEAM",
+    "energyDelta": -55,
+    "power": 75,
+    "type": "BUG",
+    "turns": 1,
+    "effectChance": 0.2,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": -1,
+      "opponentDefense": -1
+    }
+  },
+  {
+    "name": "SILVER_WIND",
+    "energyDelta": -45,
+    "power": 60,
+    "type": "BUG",
+    "turns": 1,
+    "effectChance": 0.1,
+    "effect": {
+      "selfAttack": 1,
+      "selfDefense": 1,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "SKULL_BASH",
+    "energyDelta": -75,
+    "power": 130,
+    "type": "NORMAL",
+    "turns": 1,
+    "effectChance": 1,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 1,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "SKY_ATTACK",
+    "energyDelta": -55,
+    "power": 85,
+    "type": "FLYING",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "SLUDGE",
+    "energyDelta": -40,
+    "power": 50,
+    "type": "POISON",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "SLUDGE_BOMB",
+    "energyDelta": -50,
+    "power": 80,
+    "type": "POISON",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "SLUDGE_WAVE",
+    "energyDelta": -65,
+    "power": 110,
+    "type": "POISON",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "SMACK_DOWN",
+    "energyDelta": 8,
+    "power": 11,
+    "type": "ROCK",
+    "turns": 3,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "SNARL",
+    "energyDelta": 13,
+    "power": 5,
+    "type": "DARK",
+    "turns": 3,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "SOLAR_BEAM",
+    "energyDelta": -80,
+    "power": 150,
+    "type": "GRASS",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "SPACIAL_REND",
+    "energyDelta": -50,
+    "power": 95,
+    "type": "DRAGON",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "SPARK",
+    "energyDelta": 7,
+    "power": 5,
+    "type": "ELECTRIC",
+    "turns": 2,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "SPARKLING_ARIA",
+    "energyDelta": -45,
+    "power": 80,
+    "type": "WATER",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "SPIRIT_SHACKLE",
+    "energyDelta": -40,
+    "power": 50,
+    "type": "GHOST",
+    "turns": 1,
+    "effectChance": 0.33,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": -1
+    }
+  },
+  {
+    "name": "SPLASH",
+    "energyDelta": 12,
+    "power": 0,
+    "type": "WATER",
+    "turns": 4,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "SPRINGTIDE_STORM",
+    "energyDelta": -45,
+    "power": 60,
+    "type": "FAIRY",
+    "turns": 1,
+    "effectChance": 1,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": -1,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "STEEL_WING",
+    "energyDelta": 6,
+    "power": 7,
+    "type": "STEEL",
+    "turns": 2,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "STOMP",
+    "energyDelta": -40,
+    "power": 55,
+    "type": "NORMAL",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "STONE_EDGE",
+    "energyDelta": -55,
+    "power": 100,
+    "type": "ROCK",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "STRUGGLE",
+    "energyDelta": -100,
+    "power": 35,
+    "type": "NORMAL",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "STRUGGLE_BUG",
+    "energyDelta": 8,
+    "power": 9,
+    "type": "BUG",
+    "turns": 3,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "SUBMISSION",
+    "energyDelta": -50,
+    "power": 60,
+    "type": "FIGHTING",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "SUCKER_PUNCH",
+    "energyDelta": 7,
+    "power": 8,
+    "type": "DARK",
+    "turns": 2,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "SUNSTEEL_STRIKE",
+    "energyDelta": -65,
+    "power": 135,
+    "type": "STEEL",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "SUPER_POWER",
+    "energyDelta": -40,
+    "power": 85,
+    "type": "FIGHTING",
+    "turns": 1,
+    "effectChance": 1,
+    "effect": {
+      "selfAttack": -1,
+      "selfDefense": -1,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "SURF",
+    "energyDelta": -45,
+    "power": 75,
+    "type": "WATER",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "SWIFT",
+    "energyDelta": -35,
+    "power": 55,
+    "type": "NORMAL",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "SYNCHRONOISE",
+    "energyDelta": -50,
+    "power": 80,
+    "type": "PSYCHIC",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "TACKLE",
+    "energyDelta": 3,
+    "power": 3,
+    "type": "NORMAL",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "TAKE_DOWN",
+    "energyDelta": 8,
+    "power": 5,
+    "type": "NORMAL",
+    "turns": 3,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "TECHNO_BLAST_NORMAL",
+    "energyDelta": -55,
+    "power": 120,
+    "type": "NORMAL",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "TECHNO_BLAST_BURN",
+    "energyDelta": -55,
+    "power": 120,
+    "type": "FIRE",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "TECHNO_BLAST_CHILL",
+    "energyDelta": -55,
+    "power": 120,
+    "type": "ICE",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "TECHNO_BLAST_DOUSE",
+    "energyDelta": -55,
+    "power": 120,
+    "type": "WATER",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "TECHNO_BLAST_SHOCK",
+    "energyDelta": -55,
+    "power": 120,
+    "type": "ELECTRIC",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "THUNDER",
+    "energyDelta": -60,
+    "power": 100,
+    "type": "ELECTRIC",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "THUNDER_FANG",
+    "energyDelta": 6,
+    "power": 8,
+    "type": "ELECTRIC",
+    "turns": 2,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "THUNDER_PUNCH",
+    "energyDelta": -40,
+    "power": 60,
+    "type": "ELECTRIC",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "THUNDER_SHOCK",
+    "energyDelta": 9,
+    "power": 4,
+    "type": "ELECTRIC",
+    "turns": 2,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "THUNDERBOLT",
+    "energyDelta": -55,
+    "power": 90,
+    "type": "ELECTRIC",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "TRAILBLAZE",
+    "energyDelta": -45,
+    "power": 65,
+    "type": "GRASS",
+    "turns": 1,
+    "effectChance": 1,
+    "effect": {
+      "selfAttack": 1,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "TRANSFORM",
+    "energyDelta": 0,
+    "power": 0,
+    "type": "NORMAL",
+    "turns": 3,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "TRI_ATTACK",
+    "energyDelta": -50,
+    "power": 65,
+    "type": "NORMAL",
+    "turns": 1,
+    "effectChance": 0.5,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": -1,
+      "opponentDefense": -1
+    }
+  },
+  {
+    "name": "TRIPLE_AXEL",
+    "energyDelta": -45,
+    "power": 60,
+    "type": "ICE",
+    "turns": 1,
+    "effectChance": 1,
+    "effect": {
+      "selfAttack": 1,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "TWISTER",
+    "energyDelta": -45,
+    "power": 45,
+    "type": "DRAGON",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "V_CREATE",
+    "energyDelta": -40,
+    "power": 95,
+    "type": "FIRE",
+    "turns": 1,
+    "effectChance": 1,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": -3,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "VICE_GRIP",
+    "energyDelta": -40,
+    "power": 40,
+    "type": "NORMAL",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "VINE_WHIP",
+    "energyDelta": 8,
+    "power": 5,
+    "type": "GRASS",
+    "turns": 2,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "VOLT_SWITCH",
+    "energyDelta": 16,
+    "power": 12,
+    "type": "ELECTRIC",
+    "turns": 4,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "VOLT_TACKLE",
+    "energyDelta": -50,
+    "power": 90,
+    "type": "ELECTRIC",
+    "turns": 1,
+    "effectChance": 1,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": -1,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "WATER_GUN",
+    "energyDelta": 3,
+    "power": 3,
+    "type": "WATER",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "WATER_GUN_FAST_BLASTOISE",
+    "energyDelta": 4,
+    "power": 6,
+    "type": "WATER",
+    "turns": 2,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "WATER_PULSE",
+    "energyDelta": -55,
+    "power": 80,
+    "type": "WATER",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "WATERFALL",
+    "energyDelta": 8,
+    "power": 12,
+    "type": "WATER",
+    "turns": 3,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "WATER_SHURIKEN",
+    "energyDelta": 14,
+    "power": 6,
+    "type": "WATER",
+    "turns": 3,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "WEATHER_BALL_FIRE",
+    "energyDelta": -35,
+    "power": 55,
+    "type": "FIRE",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "WEATHER_BALL_ICE",
+    "energyDelta": -35,
+    "power": 55,
+    "type": "ICE",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "WEATHER_BALL_ROCK",
+    "energyDelta": -35,
+    "power": 55,
+    "type": "ROCK",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "WEATHER_BALL_NORMAL",
+    "energyDelta": -35,
+    "power": 55,
+    "type": "NORMAL",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "WEATHER_BALL_WATER",
+    "energyDelta": -35,
+    "power": 55,
+    "type": "WATER",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "WILDBOLT_STORM",
+    "energyDelta": -45,
+    "power": 60,
+    "type": "ELECTRIC",
+    "turns": 1,
+    "effectChance": 1,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": -1,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "WILD_CHARGE",
+    "energyDelta": -45,
+    "power": 100,
+    "type": "ELECTRIC",
+    "turns": 1,
+    "effectChance": 1,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": -2,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "WING_ATTACK",
+    "energyDelta": 7,
+    "power": 5,
+    "type": "FLYING",
+    "turns": 2,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "WRAP",
+    "energyDelta": -45,
+    "power": 60,
+    "type": "NORMAL",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "WRAP_GREEN",
+    "energyDelta": -45,
+    "power": 25,
+    "type": "NORMAL",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "WRAP_PINK",
+    "energyDelta": -45,
+    "power": 25,
+    "type": "NORMAL",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "X_SCISSOR",
+    "energyDelta": -40,
+    "power": 65,
+    "type": "BUG",
+    "turns": 1,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "YAWN",
+    "energyDelta": 12,
+    "power": 0,
+    "type": "NORMAL",
+    "turns": 4,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "ZAP_CANNON",
+    "energyDelta": -80,
+    "power": 150,
+    "type": "ELECTRIC",
+    "turns": 1,
+    "effectChance": 0.33,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": -1,
+      "opponentDefense": 0
+    }
+  },
+  {
+    "name": "ZEN_HEADBUTT",
+    "energyDelta": 6,
+    "power": 8,
+    "type": "PSYCHIC",
+    "turns": 3,
+    "effectChance": 0,
+    "effect": {
+      "selfAttack": 0,
+      "selfDefense": 0,
+      "opponentAttack": 0,
+      "opponentDefense": 0
+    }
+  }
+]

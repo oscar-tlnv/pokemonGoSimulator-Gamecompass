@@ -15,9 +15,9 @@ export default [
         { argsIgnorePattern: '^_' },
       ],
       '@typescript-eslint/no-explicit-any': 'warn',
-      '@typescript-eslint/no-empty-function': 'warn',
-      'no-duplicate-imports': 'error', // Prevent duplicate imports
-      'no-magic-numbers': 'warn', // Avoid magic numbers in your code (can be adjusted for exceptions)
+      '@typescript-eslint/no-empty-function': 'error',
+      'no-duplicate-imports': 'error',
+      'no-magic-numbers': 'warn',
       'prefer-const': 'warn',
       'no-else-return': 'error',
       'no-shadow': 'warn',
